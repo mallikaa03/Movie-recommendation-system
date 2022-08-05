@@ -1,4 +1,3 @@
-from cv2 import sort
 import numpy as np
 from operator import itemgetter
 
